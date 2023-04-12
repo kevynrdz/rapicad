@@ -1,0 +1,35 @@
+RAPICAD Copyright © 2023 - Diseñado y desarrollado por kevynrdz.
+
+===================       TÉRMINOS Y CONDICIONES      ===================
+
+Al descargar un archivo de la plataforma usted está aceptando los siguientes Términos y condiciones de uso:
+
+
+
+1. En relación al tipo de archivo.
+_________________________________
+
+1.1 El archivo que usted está descargando corresponde únicamente al modelo tridimensional de un componente estándar regulado por normas internacionales tales como ISO, o equivalencias dependiendo de cada país (DIN, JS, ASTM, etcétera).
+1.2 El archivo descargado ha sido diseñado con el software libre "FREECAD", por lo que su extensión es de tipo ".fcstd"; además éste puede contener otro archivo con un formato de tipo ".step"
+1.3 Queda prohibida cualquier modificación realizada por terceros respecto a los contenidos de RAPICAD (a partir de ahora RC) sin previa autorización; por ejemplo, la creación de contenido malicioso a partir o dentro de los archivos y posterior distribución. Cualquier acción de estas características supone una violación a los derechos de propiedad intelectual y supone una intención de daño o perjuicio a FC y a terceros.
+1.4 Las Solicitudes de Revisión están abiertas para cualquier usuario que quiera solicitar una revisión de un archivo.
+
+
+
+2. En relación a los usuarios, información personal, derechos de uso, propiedad, etcétera.
+________________________________________________________________________________
+
+2.1 RC no registra ningún dato ni aloja datos o información personal de los usuarios. No le solicitaremos ningún tipo de registro de acceso o alta en la plataforma
+2.2 Cualquier persona que descargue un archivo o conjunto de archivos de RC tiene derechos de uso totalmente libres y podrá hacerlo de manera gratuita sin restricciones de ningún tipo. No obstante no está permitida la modificación de archivos con el fin de registrar el modelo como propiedad de un usuario.
+2.3 Al descargar un archivo usted está de acuerdo que un los únicos medios oficiales son las redes disponibles en la página; no entable contacto por otro medio, su mensaje no será respondido.
+2.4 Ninguna persona ajena a la administración de FC se contactará con usted. Usted se compromete a informar cualquier mensaje de correo electrónico o contacto de cualquier tipo proveniente de un correo diferente a los medios de contacto oficiales realizados en el nombre de la misma. Cualquier acto de este tipo se considera suplantación de identidad y está penado por ley.
+
+
+
+3. En relación a la plataforma.
+______________________________
+
+3.1 Cualquier duda o consulta deberá ser enviada al correo disponible para tal caso o, en su defecto, al grupo oficial de telegram.
+3.2 Es sano poder expresarse libremente de una manera respetuosa, por lo cual las opiniones son bienvenidas. Al aceptar estos términos y condiciones usted está de acuerdo con expresar su opinión de buena manera sin realizar comentarios ofensivos, hirientes o malintencionados hacia cualquier otro miembro de la plataforma, grupo, colectivo o minoría.
+3.3 El nombre y logo de la plataforma es propiedad intelectual de su autor, por lo que se le reservan todos los derechos del mismo. No obstante está permitido la reproducción total o parcial del nombre, logo, descripción u otro componente del mismo y se facilitan en un 'press kit' descargable desde la página.
+3.4 Este acuerdo así como distintos elementos de la plataforma están en constante revisión, por lo que pueden variar a lo largo del tiempo y serán informados cada vez que se produzcan.
