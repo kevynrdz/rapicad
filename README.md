@@ -19,3 +19,4 @@ This page doesn't seek to obtain an economic return (for now), but a collaborati
 ### Finally, thanks all for support this project.
 
 All files are designed and developed by KevynRdz under CC-BY license. For more info visit https://creativecommons.org/licenses/by/4.0/
+The name and logo of RAPICAD is under intellectual property. Copyright 2023, all rights reserved.
