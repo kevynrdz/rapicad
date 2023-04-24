@@ -1,5 +1,5 @@
 # FASTCAD | An Easy-To-Use database of parametric CAD files.
-FASTCAD is a database with parametric CAD files of standard fasteners, structural members, COTS and any product that should you buy for your projects.
+FASTCAD is a database with parametric CAD files of standard fasteners, structural members, COTS and any product that should you buy for your proyects.
 
 All files are made with open-source software.
 When I started designing there weren't many known open-source software options for CAD. Until now there was no open library of 3D models of fasteners and standard components made with free software.
