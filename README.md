@@ -13,10 +13,14 @@ RAPICAD seeks to speed up the design process providing CAD models of standardize
 ### Step 2: Select the needed configuration.
 ![How to use gif number 1](https://github.com/kevynrdz/rapicad/blob/main/img/washer.gif)
 
+## Downloads
+
+### v0.1.1
+https://github.com/kevynrdz/rapicad/blob/main/db/rapicad_files_v0.1.1.zip
+
 ## Disclaimer
 This page doesn't seek to obtain an economic return (for now), but a collaboration is always appreciated by sharing, donating, correcting information, helping with maintenance or giving their opinion.
-
-### Finally, thanks all for support this project.
-
 - All files are designed and developed by KevynRdz under CC-BY license. For more info visit https://creativecommons.org/licenses/by/4.0/
 - The name and logo of RAPICAD is under intellectual property. Copyright 2023, all rights reserved.
+
+### Finally, thanks all for support this project.
