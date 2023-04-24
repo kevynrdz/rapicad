@@ -1,4 +1,5 @@
 # FASTCAD | An Easy-To-Use database of parametric CAD files.
+## About the project
 FASTCAD is a database with parametric CAD files of standard fasteners, structural members, COTS and any product that should you buy for your proyects.
 
 All files are made with open-source software.
@@ -12,3 +13,8 @@ Finally, thanks all for support this project.
 
 KevynRdz.
 
+## How to use
+### Step 1: Download the file.
+![How to use gif number 1](https://github.com/kevynrdz/rapicad/blob/main/img/user.gif)
+### Step 2: Select the needed configuration.
+![How to use gif number 1](https://github.com/kevynrdz/rapicad/blob/main/img/washer.gif)
