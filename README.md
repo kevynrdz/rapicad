@@ -1,4 +1,4 @@
-# RAPICAD | An Easy-To-Use database of parametric CAD files.
+# RAPICAD | An Easy-To-Use database of parametric CAD files for FreeCAD.
 ## About the project
 RAPICAD is a database with parametric CAD files of standard fasteners, structural members, COTS and any product that should you buy for your proyects.
 
