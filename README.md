@@ -25,7 +25,7 @@ This page doesn't seek to obtain an economic return (for now), but a collaborati
 All files are designed and developed by KevynRdz under CC-BY license. For more info visit https://creativecommons.org/licenses/by/4.0/
 The name and logo of RAPICAD is under intellectual property. Copyright 2023, all rights reserved.
 
-##Donations
+## Donations
 You can donate via:
 #### https://cafecito.app/kevynrdz (MercadoPago - Only for Argentina)
 #### https://ko-fi.com/kevynrdz (PayPal - Others)
