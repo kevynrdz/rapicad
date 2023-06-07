@@ -1,2 +1,0 @@
-base roseta o brida paramétrica
-perfiles c, t, doble t
