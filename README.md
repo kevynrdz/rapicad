@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-CC--BY--4.0-orange)](https://creativecommons.org/licenses/by/4.0/legalcode)
-[![Release](https://img.shields.io/badge/release-v0.1.1-blue)]
+[![Release](https://img.shields.io/badge/release-v0.1.1-blue)](https://github.com/kevynrdz/rapicad#v011-02022023)
 
 # RAPICAD | An Easy-To-Use database of parametric CAD files for FreeCAD.
 ## About the project
