@@ -3,6 +3,7 @@
 [![Donate](https://img.shields.io/badge/donate-ko--fi-red)](https://ko-fi.com/kevynrdz)
 [![Donate](https://img.shields.io/badge/donate-cafecito-9cf)](https://cafecito.app/kevynrdz)
 
+![Logo](https://raw.githubusercontent.com/kevynrdz/rapicad/cff15e8024a647481304afea77cb73d3af9bc933/img/logo_160922.svg)
 # RAPICAD | An Easy-To-Use database of parametric CAD files for FreeCAD.
 ## About the project
 RAPICAD is a database with parametric CAD files of standard fasteners, structural members, COTS and any product that should you buy for your proyects.
