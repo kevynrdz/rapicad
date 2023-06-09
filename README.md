@@ -27,21 +27,21 @@ https://github.com/kevynrdz/rapicad/blob/main/db/rapicad_files_v0.1.1.zip
 
 ### v0.1.1 (02/02/2023)
 
-#### Fasteners
-##### Flat Washer ISO7089 DIN125
+**Fasteners**
+* Flat Washer ISO7089 DIN125
 
-#### Packaging
-##### Isopalet ISO 3676
+**Packaging**
+* Isopalet ISO 3676
 
-#### Piping
-##### PVC Pipe ISO1452-2
-##### PVC T joint ISO1452-2
+**Piping**
+* PVC Pipe ISO1452-2
+* PVC T joint ISO1452-2
 
-#### Structural
-##### Flat steel ASTM A36
-##### Rectangular steel tube ASTM A513 DIN2393
-##### Round steel tube ASTM A513 DIN2393
-##### Square steel tube ASTM A513 DIN2393
+**Structural**
+* Flat steel ASTM A36
+* Rectangular steel tube ASTM A513 DIN2393
+* Round steel tube ASTM A513 DIN2393
+* Square steel tube ASTM A513 DIN2393
 
 ## Disclaimer
 This page doesn't seek to obtain an economic return (for now), but a collaboration is always appreciated by sharing, donating, correcting information, helping with maintenance or giving their opinion.
