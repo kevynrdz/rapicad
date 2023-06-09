@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-orange)](https://creativecommons.org/licenses/by/4.0/legalcode)
+[![Release](https://img.shields.io/badge/release-v0.1.1-blue)]
+
 # RAPICAD | An Easy-To-Use database of parametric CAD files for FreeCAD.
 ## About the project
 RAPICAD is a database with parametric CAD files of standard fasteners, structural members, COTS and any product that should you buy for your proyects.
@@ -19,6 +22,26 @@ You can download each file you need separately from the Database or you also hav
 
 ### v0.1.1
 https://github.com/kevynrdz/rapicad/blob/main/db/rapicad_files_v0.1.1.zip
+
+## Changelog
+
+### v0.1.1 (02/02/2023)
+
+#### Fasteners
+##### Flat Washer ISO7089 DIN125
+
+#### Packaging
+##### Isopalet ISO 3676
+
+#### Piping
+##### PVC Pipe ISO1452-2
+##### PVC T joint ISO1452-2
+
+#### Structural
+##### Flat steel ASTM A36
+##### Rectangular steel tube ASTM A513 DIN2393
+##### Round steel tube ASTM A513 DIN2393
+##### Square steel tube ASTM A513 DIN2393
 
 ## Disclaimer
 This page doesn't seek to obtain an economic return (for now), but a collaboration is always appreciated by sharing, donating, correcting information, helping with maintenance or giving their opinion.
