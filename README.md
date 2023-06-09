@@ -23,7 +23,7 @@ RAPICAD seeks to speed up the design process providing CAD models of standardize
 
 You can download each file you need separately from the Database or you also have the option to download a .zip file with all the files separated by folders from the link:
 
-### https://github.com/kevynrdz/rapicad/raw/main/db/rapicad_files_v0.1.1.zip (v0.1.1)
+### [v0.1.1](https://github.com/kevynrdz/rapicad/raw/main/db/rapicad_files_v0.1.1.zip)
 
 ## Changelog
 
