@@ -1,0 +1,65 @@
+[
+{
+    "titulo": "Arandela plana ISO7089 DIN125",
+    "imagen": "./img/arandela-iso7089.jpg",
+    "tipo": "gratis",
+    "categoria": "Tornillería",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Tuerca hexagonal Grado C ISO4034",
+    "imagen": "./img/tuerca-c-iso4034.jpg",
+    "tipo": "gratis",
+    "categoria": "Tornillería",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Isopalet ISO3676",
+    "imagen": "./img/isopalet.jpg",
+    "tipo": "premium",
+    "categoria": "Paquetería",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Caño PVC ISO1452-2",
+    "imagen": "./img/cano-pvc.jpg",
+    "tipo": "gratis",
+    "categoria": "PVC",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Unión T PVC ISO1452-2",
+    "imagen": "./img/pvc-t.jpg",
+    "tipo": "gratis",
+    "categoria": "PVC",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Planchuela Acero ASTM A36",
+    "imagen": "./img/planchuela.jpg",
+    "tipo": "gratis",
+    "categoria": "Perfiles",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Caño Estructural Rectangular ASTM A513",
+    "imagen": "./img/perfil-rectangular.jpg",
+    "tipo": "gratis",
+    "categoria": "Perfiles",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Caño Estructural Cuadrado ASTM A513",
+    "imagen": "./img/perfil-cuadrado.jpg",
+    "tipo": "gratis",
+    "categoria": "Perfiles",
+    "url": "https://www.google.com"
+},
+{
+    "titulo": "Caño Estructural Redondo ASTM A513",
+    "imagen": "./img/perfil-redondo.jpg",
+    "tipo": "gratis",
+    "categoria": "Perfiles",
+    "url": "https://www.google.com"
+}
+]
